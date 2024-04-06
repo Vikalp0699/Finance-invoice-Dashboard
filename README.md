@@ -19,20 +19,20 @@ Summary Table consists of Monthly summary of cost as well as payslip information
 This project involves using a dataset provided by the Coding Invaders LMS platform. The dataset is then connected to Power BI Desktop for analysis. Power Query is utilized to transform and clean the data, ensuring it is in a suitable format for analysis.
 
 👉Findings:
-February month has the highest Total Amount($) at 400,298,983M which was 126.72% higher than March.
-XDP accounted for 43.51% of the Total number of Invoices and highest Total Amount with 0 % Rebate.
-Total % Of Top two Vendors which are Xcs Corp and ABF Inc is 91.09%
-ABF Inc. catering the highest Count of Country at 18 and on second position XDP i.e 7 then SSN Intl i.e 5.
-USA had the highest Average of Payslip Count at 6,568,913.83. USA accounted for 35.78% of the Sum of Total Amount($).
-Serbia had the lowest Average of Payslip Count at 8.45, which was significantly lower.
-EMEA had the highest total Sum of Total Amount($) at 1.472M and lowest is LATAM
-North America had highest total amount than other regions.
-The highest scope for PPC negotiation lies for Xcs Corp & ABF Inc.
-DFG Corp, it has a presence in Morocco, Greece, and Russia, but there’s no amount or payslip information available for Greece and Russia.
+-February month has the highest Total Amount($) at 400,298,983M which was 126.72% higher than March.
+-XDP accounted for 43.51% of the Total number of Invoices and highest Total Amount with 0 % Rebate.
+-Total % Of Top two Vendors which are Xcs Corp and ABF Inc is 91.09%
+-ABF Inc. catering the highest Count of Country at 18 and on second position XDP i.e 7 then SSN Intl i.e 5.
+-USA had the highest Average of Payslip Count at 6,568,913.83. USA accounted for 35.78% of the Sum of Total Amount($).
+-Serbia had the lowest Average of Payslip Count at 8.45, which was significantly lower.
+-EMEA had the highest total Sum of Total Amount($) at 1.472M and lowest is LATAM
+-North America had highest total amount than other regions.
+-The highest scope for PPC negotiation lies for Xcs Corp & ABF Inc.
+-DFG Corp, it has a presence in Morocco, Greece, and Russia, but there’s no amount or payslip information available for Greece and Russia.
 
 
 👉Recommendations:
-Vendor Management: Strengthen relationships with vendors who are contributing highest in Total Amount and explore opportunities for negotiation to optimize pricing and maximize profitability.
-Country Focus: ABF Inc. caters to the highest Count of Country at 18, followed by XDP with 7 and SSN Intl with 5. Identify the reasons for ABF Inc.'s extensive reach and analyze the potential for expansion in other countries
-Regional Analysis: EMEA had the highest total Total Amount($), followed by North America. Focus on understanding the factors driving success in these regions and consider allocating additional resources or implementing targeted strategies to maximize growth and revenue.
-PPC Negotiation: Xcs Corp and ABF Inc present the highest scope for PPC (Pay-Per-Click) negotiation. Review the current PPC agreements with these vendors, analyze the market rates, and negotiate for better terms to improve profitability.
+-Vendor Management: Strengthen relationships with vendors who are contributing highest in Total Amount and explore opportunities for negotiation to optimize pricing and maximize profitability.
+-Country Focus: ABF Inc. caters to the highest Count of Country at 18, followed by XDP with 7 and SSN Intl with 5. Identify the reasons for ABF Inc.'s extensive reach and analyze the potential for expansion in other countries
+-Regional Analysis: EMEA had the highest total Total Amount($), followed by North America. Focus on understanding the factors driving success in these regions and consider allocating additional resources or implementing targeted strategies to maximize growth and revenue.
+-PPC Negotiation: Xcs Corp and ABF Inc present the highest scope for PPC (Pay-Per-Click) negotiation. Review the current PPC agreements with these vendors, analyze the market rates, and negotiate for better terms to improve profitability.
