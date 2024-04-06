@@ -29,6 +29,8 @@ EMEA had the highest total Sum of Total Amount($) at 1.472M and lowest is LATAM
 North America had highest total amount than other regions.
 The highest scope for PPC negotiation lies for Xcs Corp & ABF Inc.
 DFG Corp, it has a presence in Morocco, Greece, and Russia, but there’s no amount or payslip information available for Greece and Russia.
+
+
 👉Recommendations:
 Vendor Management: Strengthen relationships with vendors who are contributing highest in Total Amount and explore opportunities for negotiation to optimize pricing and maximize profitability.
 Country Focus: ABF Inc. caters to the highest Count of Country at 18, followed by XDP with 7 and SSN Intl with 5. Identify the reasons for ABF Inc.'s extensive reach and analyze the potential for expansion in other countries
